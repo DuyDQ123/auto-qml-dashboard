@@ -71,7 +71,7 @@ The system consists of three main components:
 ### Dashboard Application Setup
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/car-dashboard-system.git
+   git clone https://github.com/DuyDQ123/car-dashboard-system.git
    cd car-dashboard-system
    ```
 2. Open the ProjectFinal.pro file with Qt Creator
